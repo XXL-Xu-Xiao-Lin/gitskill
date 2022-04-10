@@ -1,0 +1,1 @@
+add stash_txt but not finish
